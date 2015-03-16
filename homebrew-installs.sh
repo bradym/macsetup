@@ -10,7 +10,6 @@ brew install autoconf
 brew install bash
 brew install bash-completion
 brew install brew-cask
-brew install cask
 brew install cmake
 brew install composer
 brew install coreutils
@@ -107,6 +106,7 @@ brew cask install imageoptim
 brew cask install integrity
 brew cask install iterm2
 brew cask install kdiff3
+brew cask install kodi
 brew cask install lastpass-universal
 brew cask install launchrocket
 brew cask install mactracker
@@ -127,9 +127,8 @@ brew cask install sizeup
 brew cask install sourcetree
 brew cask install steam
 brew cask install the-unarchiver
-brew cask install utorrent
+brew cask insatll transmission
 brew cask install vagrant
 brew cask install virtualbox
 brew cask install vlc
-brew cask install xbmc
 brew cask install xtrafinder
